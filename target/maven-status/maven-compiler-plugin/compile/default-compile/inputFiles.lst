@@ -1,0 +1,11 @@
+/Users/leixinxin/Sites/mapreduce/src/main/java/MoveColumn/MoveColumn.java
+/Users/leixinxin/Sites/mapreduce/src/main/java/wordcount/WordCountReduce.java
+/Users/leixinxin/Sites/mapreduce/src/main/java/FindBaidu/FindBaiduMapper.java
+/Users/leixinxin/Sites/mapreduce/src/main/java/MoveColumn/MoveColumnReduce.java
+/Users/leixinxin/Sites/mapreduce/src/main/java/FindBaidu/FindBaiduReducer.java
+/Users/leixinxin/Sites/mapreduce/src/main/java/wordcount/WordCountMap.java
+/Users/leixinxin/Sites/mapreduce/src/main/java/FindBaidu/FindBaiduMain.java
+/Users/leixinxin/Sites/mapreduce/src/main/java/wordcount/WordCountMain.java
+/Users/leixinxin/Sites/mapreduce/src/main/java/MoveColumn/Sougou.java
+/Users/leixinxin/Sites/mapreduce/src/main/java/FindBaidu/Sougou.java
+/Users/leixinxin/Sites/mapreduce/src/main/java/MoveColumn/MoveColumnMap.java
